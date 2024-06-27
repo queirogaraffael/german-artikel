@@ -13,7 +13,7 @@ import javax.swing.JTextArea;
 
 public class FileManager {
 
-	private static final String FILE_PATH = "C:\\Users\\raffa\\Downloads\\german-artikel\\windows-version\\files\\bibliothek\\woerter.txt";
+	private static final String FILE_PATH = "C:\\Users\\raffa\\Downloads\\german-artikel\\src\\bibliothek\\woerter.txt";
 
 	private FileWriter file;
 	private PrintWriter write;
